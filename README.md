@@ -1,2 +1,2 @@
-# To-do-list
-It is a simple todo List App
+# To-do-List
+It is a To Do List App
